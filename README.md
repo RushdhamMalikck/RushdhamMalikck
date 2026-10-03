@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=220&section=header&text=Rushdham%20Malik%20CK&fontSize=48&fontColor=04161a&desc=Teaching%20machines%20to%20solve%20problems&descSize=18&descAlignY=65&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=04161a&height=220&section=header&text=Rushdham%20Malik%20CK&fontSize=48&fontColor=FFFFFF&stroke=00F5FF&strokeWidth=1&desc=Teaching%20machines%20to%20solve%20problems&descSize=18&descAlignY=65&fontAlignY=40" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Learning+in+public.+Building+in+progress;Python+%7C+C%2B%2B+%7C+C+%7C+Java+Developer" />
 </p>
