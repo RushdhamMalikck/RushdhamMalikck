@@ -24,12 +24,11 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LOCATION-KERALA%2C%20INDIA-00D1B2?style=for-the-badge&labelColor=2b2f36" />
+  <img src="https://img.shields.io/badge/LOCATION-KERALA%2KOZHIKODEC%20INDIA-00D1B2?style=for-the-badge&labelColor=2b2f36" />
   <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20PROBLEM%20SOLVING-00D1B2?style=for-the-badge&labelColor=2b2f36" />
   <br/>
-  <img src="https://img.shields.io/badge/LANG-PYTHON-00D1B2?style=for-the-badge&logo=python&logoColor=white&labelColor=2b2f36" />
-  <img src="https://img.shields.io/badge/LANG-HTML-00D1B2?style=for-the-badge&logo=html5&logoColor=white&labelColor=2b2f36" />
-  <img src="https://img.shields.io/badge/LANG-JAVASCRIPT-00D1B2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2b2f36" />
+  <img src="https://img.shields.io/badge/LANG-PYTHON,JAVA,C++,C,MySql-00D1B2?style=for-the-badge&logo=python&logoColor=white&labelColor=2b2f36" />
+  <img src="https://img.shields.io/badge/FRONTEND-HTML,CSS-00D1B2?style=for-the-badge&logo=html5&logoColor=white&labelColor=2b2f36" />
 </p>
 
 ---
