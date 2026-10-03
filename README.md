@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LOCATION-KOZHIKODE%2C%20KERALA%2C%20INDIA-00D1B2?style=for-the-badge&labelColor=2b2f36" />
-  <img src="https://img.shields.io/badge/FOCUS-REAL20%26%20WORLD%20PROBLEM SOLVING-00D1B2?style=for-the-badge&labelColor=2b2f36" />
+  <img src="https://img.shields.io/badge/FOCUS-REAL%20%26%20WORLD%20PROBLEM SOLVING-00D1B2?style=for-the-badge&labelColor=2b2f36" />
   <br/>
   <img src="https://img.shields.io/badge/LANG-PYTHON%2C%20JAVA%2C%20C%2B%2B%2C%20C%2C%20MYSQL-00D1B2?style=for-the-badge&logo=python&logoColor=white&labelColor=2b2f36" />
   <img src="https://img.shields.io/badge/FRONTEND-HTML%2C%20CSS-00D1B2?style=for-the-badge&logo=html5&logoColor=white&labelColor=2b2f36" />
