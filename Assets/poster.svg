@@ -1,28 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
-  <rect width="1200" height="500" fill="#06201c"/>
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="500" fill="#04161a"/>
 
   <!-- corner marks -->
-  <g stroke="#00D1B2" stroke-width="2" opacity="0.8">
+  <g stroke="#00F5FF" stroke-width="2" opacity="0.9">
     <line x1="40" y1="30" x2="40" y2="58"/><line x1="26" y1="44" x2="54" y2="44"/>
     <line x1="1160" y1="30" x2="1160" y2="58"/><line x1="1146" y1="44" x2="1174" y2="44"/>
   </g>
 
   <!-- name -->
-  <text x="60" y="210" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="108" fill="#F4FFFC" letter-spacing="-2">RUSHDHAM</text>
-  <text x="60" y="320" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="108" fill="#00D1B2" letter-spacing="-2">MALIK CK.</text>
+  <text x="60" y="210" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="108" fill="#F4FFFF" letter-spacing="-2">RUSHDHAM</text>
+  <text x="60" y="320" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="108" fill="#00F5FF" letter-spacing="-2" filter="url(#glow)">MALIK CK.</text>
 
   <!-- right side details -->
-  <g font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#F4FFFC" letter-spacing="1">
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#F4FFFF" letter-spacing="1">
     <text x="860" y="130">KOZHIKODE, KERALA</text>
     <text x="860" y="152">PYTHON / JAVA / C++ / C</text>
-    <text x="860" y="196">AI + PROBLEM SOLVING</text>
+    <text x="860" y="196">LOGIC. CODE. IMPACT.</text>
     <text x="860" y="218">EST. 2026</text>
   </g>
 
   <!-- tagline -->
-  <line x1="60" y1="385" x2="140" y2="385" stroke="#00D1B2" stroke-width="3"/>
-  <g font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#F4FFFC" letter-spacing="1">
-    <text x="60" y="425">LEARNING IN PUBLIC,</text>
-    <text x="60" y="460">BUILDING IN PROGRESS.</text>
+  <line x1="60" y1="385" x2="140" y2="385" stroke="#00F5FF" stroke-width="3" filter="url(#glow)"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#F4FFFF" letter-spacing="1">
+    <text x="60" y="425">CODE. BREAK. FIX.</text>
+    <text x="60" y="460">REPEAT. EVOLVE.</text>
   </g>
 </svg>
