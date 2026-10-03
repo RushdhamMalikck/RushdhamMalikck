@@ -46,7 +46,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushdhamMalikck&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D1B2&text_color=c9d1d9" />
 </p>
+---
 
+<p align="center">
+  <img src="./Assets/poster.svg" width="100%" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1B2&height=120&section=footer" />
 </p>
